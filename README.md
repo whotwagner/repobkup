@@ -5,7 +5,7 @@ Many people are scared because Microsoft bought GitHub. I wonder why people are 
 ## Installation
 
 ```
-git clone https://github.com/whotwagner/repobkup
+# git clone https://github.com/whotwagner/repobkup
 ```
 
 ## Usage
